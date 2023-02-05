@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-anime-project/static/css/main.6825d6b4.css",
+    "main.js": "/React-anime-project/static/js/main.b2f4d787.js",
+    "static/js/787.a5d0423f.chunk.js": "/React-anime-project/static/js/787.a5d0423f.chunk.js",
+    "static/media/img4.jpg": "/React-anime-project/static/media/img4.7302f4527538ac16245e.jpg",
+    "static/media/slick.svg": "/React-anime-project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React-anime-project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React-anime-project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React-anime-project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/React-anime-project/index.html",
+    "main.6825d6b4.css.map": "/React-anime-project/static/css/main.6825d6b4.css.map",
+    "main.b2f4d787.js.map": "/React-anime-project/static/js/main.b2f4d787.js.map",
+    "787.a5d0423f.chunk.js.map": "/React-anime-project/static/js/787.a5d0423f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6825d6b4.css",
+    "static/js/main.b2f4d787.js"
+  ]
+}

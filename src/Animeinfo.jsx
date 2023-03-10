@@ -22,7 +22,7 @@ function Animeinfo()
         {anime &&  <section className="cardsinfo" >
                        <div className="cardsinfo-left" >  <img src={anime.images.webp.large_image_url} alt='/' /></div>
                        <div className="cardsinfo-right">
-                       <h2>{anime.title_english}</h2>
+                       <h2>{anime.title}</h2>
                         <h2>{anime.title_japanese}</h2>
                         <p>{anime.synopsis}</p>
                         <h2>RATING : {anime.score}</h2></div>

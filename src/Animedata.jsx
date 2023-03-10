@@ -62,9 +62,9 @@ function Animedata({ datapass }) {
 
 <Slider {...settings} >
                 {
-                datapass.map((data) => {
+                datapass.map((data , index) => {
                     return (
-                    <Link to={`/animeinfo${data.mal_id}`}><div className="cards">
+                    <Link to={`/animeinfo${data.mal_id}`} key={index} ><div className="cards">
                         <img src={data.images.jpg.image_url} alt='/' />
                     </div></Link>
                      ); 

@@ -10,7 +10,7 @@
 .cards>img
 {
     padding: 5px;
-    height: 200px;  
+    height: 180px;  
     transition: all .5s;
     border-radius: 10px;
 }
